@@ -60,6 +60,7 @@ All graph edges connect transactions within the same time step, so no edges cros
 datasci-207-project/
 ├── data_preprocessing.ipynb
 ├── EDA.ipynb
+├── Baseline_Model.ipynb
 ├── processed_data/
 │   └── elliptic_labeled_processed.csv.gz
 └── README.md
